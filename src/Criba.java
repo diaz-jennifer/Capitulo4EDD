@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /***
- * Programa refactorizado
+ * Criba refactorizado
  */
 public class Criba
 {
